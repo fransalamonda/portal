@@ -813,10 +813,12 @@ Last Update  : 15 March 2022 -->
                                               ['get', 'population'],
                                                -2.29,
                                                '#ba0618',
-                                                   -0.30,
-                                                   '#fafa07',
-                                                   0.20,
-                                                   '#0af545'
+                                                -0.30,
+                                                '#fafa07',
+                                                0.20,
+                                                '#0af545',
+                                                3.50,
+                                                   '#05236e'
                                            ],
                                            'fill-opacity': [
                                                'case',
@@ -832,7 +834,7 @@ Last Update  : 15 March 2022 -->
                                    'layout': {},
                                    'paint': {
                                        'line-color': '#000',
-                                       'line-width': 1.3
+                                       'line-width': 1.5
                                    }
                                });    
 
